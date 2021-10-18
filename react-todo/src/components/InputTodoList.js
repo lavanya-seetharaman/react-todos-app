@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-export default class InputTodo extends Component {
+export default class InputTodoList extends Component {
 
     state={
         title:""
